@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
     // !!! 중요: README.md 파일을 읽고, 배포된 자신의 Google Apps Script 웹 앱 URL로 변경하세요.
-    const WEB_APP_URL = 'https://script.google.com/macros/s/AKfycbx-cVZnMqK8xCEGpQhysoGu1WWOBzQpLN7_UCrGs1e2sA43NgHWurnLJ2sD646OfwY3/exec';
+    const WEB_APP_URL = 'https://script.google.com/macros/s/AKfycbymVUt0HA0GyKsz6FHmeCW5nnc3K3rGwplhQb6bfXWbtpn3PP6xpQHVXLN1MNSts1Ki/exec';
 
     const recordForm = document.getElementById('record-form');
     const recordsContainer = document.getElementById('records-container');
